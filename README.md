@@ -1,3 +1,3 @@
 # hr-alumni
 
-Team Lambo Rocks!!!
+Team Lambo Rocks!
